@@ -7,3 +7,4 @@ def diff (a,b):
     x=a-b
     print(x)
 diff(10,9)
+print('We are changing the code from Github!')
